@@ -1,0 +1,2 @@
+s = "pankaj"
+del s
